@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "title": "Create a responsive landing page",
+        "ticketId": "101",
+        "deadline": "02.12.2024",
+        "description": "The landing page should provide an engaging user experience and be accessible across different devices and screen sizes",
+        "estimatedTime": "1 day",
+        "billable": false,
+        "skills": [
+            {
+                "@id": "1",
+                "id": "1",
+                "name": "HTML",
+                "taskCount": 0,
+                "selected": false
+            },
+            {
+                "@id": "2",
+                "id": "2",
+                "name": "CSS",
+                "taskCount": 0,
+                "selected": false
+            },
+            {
+                "@id": "3",
+                "id": "3",
+                "name": "Tailwind",
+                "taskCount": 0,
+                "selected": false
+            },
+            {
+                "@id": "4",
+                "id": "4",
+                "name": "Javascript",
+                "taskCount": 0,
+                "selected": false
+            }
+        ],
+        "project": {
+            "id": 1,
+            "name": "Finance Company",
+            "code": "---",
+            "createdAt": "---"
+        },
+        "status": "Pending",
+        "owner": {
+            "id": 2,
+            "name": "Sarah B"
+        },
+        "requests": [
+            {
+                "@id": "1",
+                "user": {
+                    "id": 1
+                },
+                "status": "Applied"
+            },
+            {
+                "@id": "2",
+                "user": {
+                    "id": 6
+                },
+                "status": "Applied"
+            }
+        ]
+            
+    },
+    {
+        "id": 2,
+        "title": "Create user authentication and authorization",
+        "ticketId": "202",
+        "deadline": "04.03.2024",
+        "description": "Implement a user authentication and authorization system to ensure the security and integrity of our application",
+        "estimatedTime": "3 days",
+        "billable": true,
+        "skills": [
+                {
+                    "@id": "1",
+                    "id": "1",
+                    "name": "JWT",
+                    "taskCount": 0,
+                    "selected": false
+                },
+                {
+                    "@id": "2",
+                    "id": "2",
+                    "name": "OAuth",
+                    "taskCount": 0,
+                    "selected": false
+                },
+                {
+                    "@id": "3",
+                    "id": "3",
+                    "name": "MySQL",
+                    "taskCount": 0,
+                    "selected": false
+                },
+                {
+                    "@id": "4",
+                    "id": "4",
+                    "name": "Node.js",
+                    "taskCount": 0,
+                    "selected": false
+                }
+        ],
+        "project": {
+            "name": "TV streaming"
+        },
+        "status": "New",
+        "owner": {
+            "id": 3,
+            "name": "Paul C"
+        },
+        "requests": [
+            {
+                "user": {
+                    "id": 14
+                },
+                "status": "Applied"
+            },
+            {
+                "user": {
+                    "id": 19
+                },
+                "status": "Applied"
+            }
+        ]   
+        
+    },
+    {
+        "id": 3,
+        "title": "Create a Banner Ad for Website Homepage",
+        "ticketId": "113",
+        "deadline": "01.11.2024",
+        "description": "As part of our website redesign project, we need a new banner ad for our homepage. The design should be eye-catching and match our brand's style and color scheme. The banner should promote our upcoming summer sale.",
+        "estimatedTime": "1 days",
+        "billable": true,
+        "skills": [
+                {
+                    "@id": "1",
+                    "id": "1",
+                    "name": "Figma",
+                    "taskCount": 0,
+                    "selected": false
+                },
+                {
+                    "@id": "2",
+                    "id": "2",
+                    "name": "Sketch",
+                    "taskCount": 0,
+                    "selected": false
+                }
+        ],
+        "project": {
+            "name": "Clothing company",
+            "code": "---",
+            "createdAt": "---",
+            "id": 2
+        },
+        "status": "New",
+        "owner": {
+            "id": 1,
+            "name": "Joe Smith"
+        },
+        "requests": [
+            {
+                "@id": "3",
+                "user": {
+                    "id": 12
+                },
+                "status": "Applied"
+            },
+            {
+                "@id": "4",
+                "user": {
+                    "id": 19
+                },
+                "status": "Applied"
+            }
+        ]   
+        
+    },
+    {
+        "id": 4,
+        "title": "Implement User Profile Page",
+        "ticketId": "106",
+        "deadline": "02.12.2024",
+        "description": "We need to create a user profile page for our application, where users can view and edit their personal information.",
+        "estimatedTime": "1 day",
+        "billable": false,
+        "skills": [
+            {
+                "@id": "1",
+                "id": "1",
+                "name": "JWT",
+                "taskCount": 0,
+                "selected": false
+            },
+            {
+                "@id": "2",
+                "id": "2",
+                "name": "React",
+                "taskCount": 0,
+                "selected": false
+            },
+            {
+                "@id": "3",
+                "id": "3",
+                "name": "Javascript",
+                "taskCount": 0,
+                "selected": false
+            }
+        ],
+        "project": {
+            "name": "Finance Company",
+            "code": "---",
+            "createdAt": "---",
+            "id": 3
+        },
+        "status": "In Progress",
+        "owner": {
+            "id": 2,
+            "name": "Sarah B"
+        },
+        "requests": [
+            {
+                "@id": "6",
+                "user": {
+                    "id": 1
+                },
+                "status": "Accepted"
+            },
+            {
+                "@id": "7",
+                "user": {
+                    "id": 9
+                },
+                "status": "Applied"
+            }
+        ]    
+    }
+]
